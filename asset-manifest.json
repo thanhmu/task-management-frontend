@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://thanhmu-github.io/task-management-front-end/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://thanhmu-github.io/task-management-front-end/static/js/main.06968e26.chunk.js",
+    "main.js.map": "https://thanhmu-github.io/task-management-front-end/static/js/main.06968e26.chunk.js.map",
+    "runtime~main.js": "https://thanhmu-github.io/task-management-front-end/static/js/runtime~main.1e5d0d1c.js",
+    "runtime~main.js.map": "https://thanhmu-github.io/task-management-front-end/static/js/runtime~main.1e5d0d1c.js.map",
+    "static/js/2.d6cdebe9.chunk.js": "https://thanhmu-github.io/task-management-front-end/static/js/2.d6cdebe9.chunk.js",
+    "static/js/2.d6cdebe9.chunk.js.map": "https://thanhmu-github.io/task-management-front-end/static/js/2.d6cdebe9.chunk.js.map",
+    "index.html": "https://thanhmu-github.io/task-management-front-end/index.html",
+    "precache-manifest.35f60e8e0c610260103b01e1c9e82d56.js": "https://thanhmu-github.io/task-management-front-end/precache-manifest.35f60e8e0c610260103b01e1c9e82d56.js",
+    "service-worker.js": "https://thanhmu-github.io/task-management-front-end/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://thanhmu-github.io/task-management-front-end/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
